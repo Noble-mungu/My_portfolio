@@ -1,4 +1,4 @@
-# Delani-Studio
+# MY Portfolio
 Author: Noble Mungu
 
 ## Project Description
